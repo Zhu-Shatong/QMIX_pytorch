@@ -20,6 +20,3 @@ gym		==	0.10.5
 请注意安装完整版星际争霸并配置好相关地图（搜索有大量教程）
 
 
-
-<video src="https://github.com/Zhu-Shatong/QMIX_pytorch/blob/main/%E7%BB%93%E6%9E%9C%E5%B1%95%E7%A4%BA.mp4" controls="controls" width="500px"></video>
-
